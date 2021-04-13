@@ -1,4 +1,4 @@
-# Öffentliche Webseite der Software 1 GmbH
+# Öffentliche Webseite der Aldago UG
 
 
 ## Develop
@@ -6,4 +6,12 @@
 ```
 npm run watch
 jekyll serve
+```
+
+
+## Deploy
+
+```
+jekyll build
+npm run prod
 ```
