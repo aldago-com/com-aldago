@@ -3,7 +3,7 @@ permalink: /imprint
 title: Impressum
 subtitle: Rechtliches
 
-leadingParagraph: Hier findest Du die rechtlichen Angaben der Software 1 GmbH. Diese sind gültig für alle unsere Produkte und Dienstleistungen.
+leadingParagraph: Hier findest Du die rechtlichen Angaben der aldago UG. Diese sind gültig für alle unsere Produkte und Dienstleistungen.
 ---
 
 #### Name & Anschrift
