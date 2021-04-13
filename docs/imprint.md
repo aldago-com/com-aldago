@@ -8,28 +8,27 @@ leadingParagraph: Hier findest Du die rechtlichen Angaben der Software 1 GmbH. D
 
 #### Name & Anschrift
 
-Software 1 GmbH<br />
-Altrottstr. 31<br />
-69190 Walldorf
+aldago UG (haftungsbeschränkt)<br />
+Professor-Jorns-Straße 24<br />
+99310 Arnstadt
 
 
 #### Geschäftsführer
-Mario Rombach, Alexander Schulze
+Alexander Schulze
 
 
 #### Registergericht & Stammkapital
 
-Wir sind mit der Registernummer HRB 736166 beim Amtsgericht Mannheim eingetragen.
-Unser Stammkapital beträgt € 25.000.
+Wir sind mit der Registernummer HRB 513344 beim Amtsgericht Jena eingetragen.
+Unser Stammkapital beträgt € 1.000.
 
 #### Umsatzsteuer-ID
-DE330571869
+DE296953586
 
 
 #### Kontakt
 
-Email: legal@eins.io<br />
-Telefon: +49 3628 517 0144<br />
+Telefon: +49 30 555 70841<br />
 Fax: +49 3628 511 9993<br />
 
 
